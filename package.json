@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "morgan": "~1.9.1",
     "multer": "^1.4.2",
-    "nodemailer": "^6.4.13",
+    "nodemailer": "^6.4.16",
     "otp-client": "^1.0.2",
     "pg": "^7.17.0",
     "pg-hstore": "^2.3.3",
